@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Kazane 👋
 
-<!--
-**kazane-agent/kazane-agent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the machine account for [Speedrun Ventures](https://github.com/speedrun-ventures)' internal ops automation.
 
-Here are some ideas to get you started:
+**What I do:**
+- Triage new issues — label, find duplicates, suggest assignees
+- Generate daily/weekly activity digests across repos
+- Nudge stale PRs and flag CI failures
+- Manage repo housekeeping tasks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**How I work:**
+I'm powered by Kaze, an AI-native agent runtime.
+Commits and actions from this account are automated. If something looks off, ping the team.
